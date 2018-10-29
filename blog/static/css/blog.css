@@ -24,6 +24,11 @@ p{
     margin-left: 40px;
 }
 
+h1, h2, h3, h4 {
+  font-family: 'Averia Sans Libre';
+  color: #F8A087;
+}
+
 .date {
     color: #F89C2F;
 }
